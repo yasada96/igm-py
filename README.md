@@ -1,1 +1,1 @@
-# igm_models
+# igm-py
